@@ -1,18 +1,9 @@
-### Welcome to OpenCollar
+### Welcome to OpenCollar "Hiro's Collar Version"
 
 OpenCollar is a set of LSL scripts and related content (such as animations,
 sounds, textures, graphics and 3D models) created for SecondLife.  It has many
 features, but most are centered on one avatar voluntarily giving some degree of
 control to another.
-
-### OpenCollar Needs Your Help
-
-OpenCollar is non-profit and community driven.  Its creators and maintainers
-donate their time and talents free of charge.  If you would like to give back,
-consider taking a look at our [open
-issues](https://github.com/OpenCollarTeam/OpenCollar/issues) and see where you
-can pitch in.  You can also join the official OpenCollar group in Second Life
-and ask the community there how you can help support the project.
 
 #### Finding your way around this repo
 
@@ -50,6 +41,7 @@ content.
 
 #### Licensing Information
 
+Licens is on OpenCollar.cc ... Hiro's Collar only work in Translation and come App Upgrades. Mainfunctions all by OpenCollar.cc - we don't working in the Mainfuctions, so the Script function and all isn't changed or touched. OpenSource Code can be compared with OpenCollar.cc
 Scripts are all under the [GNU General Public License, version
 2](http://www.gnu.org/licenses/gpl-2.0).  Other resources are either public
 domain or under the [Creative Commons Attribution-ShareAlike 4.0 International
